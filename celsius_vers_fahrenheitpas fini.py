@@ -1,0 +1,1 @@
+print"Saisis une température en Celsius"
