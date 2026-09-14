@@ -1,0 +1,7 @@
+print("Quel est ton nom?")
+prenom=input()
+print("Ok "+prenom+", mainenant quel est ton age?")
+age=input()
+print("ok, et maintenant ou habites tu?")
+ville=input()
+print("selon mes infos, tu t'appelles " + prenom +" , tu as " +age+" et tu habites "+ville)
