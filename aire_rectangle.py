@@ -1,0 +1,5 @@
+print("saisis la longueur de ton rectangle")
+l = float(input())
+print ("saisis la largeur de ton rectangle")
+L = float(input())
+print( "L'aire du rectangle est "+str(l*L))
